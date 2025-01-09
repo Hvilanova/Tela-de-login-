@@ -1,1 +1,1 @@
-Tela de login resposiva utilizando Javascript.
+Tela de login responsiva utilizando Javascript.
